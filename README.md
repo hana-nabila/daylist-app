@@ -24,7 +24,7 @@ Daylist is a desktop to-do application built with **Python & PyQt6**, designed t
 ![Daylist Main UI](screenshotsmain-ui.png.png)
 
 ### Tasks & Progress
-![Tasks and Progress](screenshots/tasks-progress.png.png)
+![Tasks and Progress](screenshotstasks-progress.png.png)
 
 ---
 
